@@ -1,0 +1,100 @@
+{
+	"foto": "asstes/picture.jpg",
+	"nome":"nome",
+	"sobre":"sobre",
+	"total_pontos":"56.125",
+	"soft_skills": 
+
+	[
+		{
+		"id_skill":"1",
+		"nome_skill":"Resolução de Problemas",
+		"pontuacao":"3.200"
+		},
+		{
+		"id_skill":"1",
+		"nome_skill":"Resolução de Problemas",
+		"pontuacao":"3.200"
+		}
+	],
+	"lista_cursos": 
+
+	[ 
+		{"em_andamento":
+			[
+				{
+				"id_curso":"1",
+				"nome_skill":"Resolução de Problemas",
+				"pontuacao":"3.200"
+				},
+				{
+				"id_curso":"1",
+				"nome_skill":"Resolução de Problemas",
+				"pontuacao":"3.200"
+				}
+			]
+		},
+		{"finalizados":
+			[
+				{
+				"id_curso":"1",
+				"nome_curso":"Resolução de Problemas",
+				"carga_horária":"30h"
+				},
+				{
+				"id_curso":"1",
+				"nome_curso":"Resolução de Problemas",
+				"carga_horária":"30h"
+				}
+			]
+		},
+		{"sugeridos":
+			[
+				{
+				"id_curso":"1",
+				"nome_skill":"Resolução de Problemas",
+				"pontuacao":"3.200"
+				},
+				{
+				"id_curso":"1",
+				"nome_skill":"Resolução de Problemas",
+				"pontuacao":"3.200"
+				}
+			]
+		}
+
+	],
+	"lista_matches":
+
+	[
+		{
+			"nome_empresa":"nome_empresa_1",
+			"contato_1":"contato@email.com",
+			"contato_2":"linkedin/in/fulane",
+			"contato_3":"telefone",
+			"falar_com":"fulane",
+			""
+		},
+
+		{
+			"nome_empresa":"nome_empresa_2",
+			"contato_1":"contato@email.com",
+			"contato_2":"linkedin/in/fulane",
+			"contato_3":"telefone",
+			"falar_com":"fulane",
+			""
+		},
+
+		{
+			"nome_empresa":"nome_empresa_3",
+			"contato_1":"contato@email.com",
+			"contato_2":"linkedin/in/fulane",
+			"contato_3":"telefone",
+			"falar_com":"fulane",
+			""
+		}
+	]
+
+
+
+}

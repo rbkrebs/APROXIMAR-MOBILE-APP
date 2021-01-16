@@ -17,7 +17,8 @@ public interface CandidateMapper {
             @Mapping(source = "nome", target = "nome"),
             @Mapping(source = "sobre", target = "sobre"),
             @Mapping(source = "email", target = "email"),
-            @Mapping(source = "senha", target = "senha")
+            @Mapping(source = "senha", target = "senha"),
+            @Mapping(source = "pontuacao", target = "pontuacao")
     })
 
     Candidate DTOToModel(CandidateDTO candidateDTO);

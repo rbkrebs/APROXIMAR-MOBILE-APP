@@ -1,0 +1,64 @@
+{
+  "questoes": [
+    {
+      "id": 1,
+      "local": "refeitorio",
+      "Pergunta": "Você escuta um de seus colegas irritado consigo mesmo em ter postergado uma tarefa mediana que lhe foi passada pelo chefe",
+      "opcao1": "Acalmar e dizer que acredita que ele consegue fazer, mesmo não sabendo muito sobre o trabalho desta pessoa",
+      "opcao1softs" : [ "Gestão de pessoas" ],
+      "opcao2": "Reservar um pouco de seu tempo e dizer que vai ajudá-lo com a tarefa, desde que possa",
+      "opcao2softs" : ["Orientação para servir", "Tomada de decisão"],
+      "opcao3": "Oferecer um conselho sobre organização e dizer pra atentar-se a isso no futuro",
+      "opcao3softs" : ["Coordenação"],
+      "opcao4": "Não tomar o problema para si e deixar com que o gestor identifique este problema para tratar com a pessoa",
+      "opcao4softs" : ["Pensamento crítico"]
+    },
+
+    {
+      "id": 2,
+      "local": "bar",
+      "Pergunta": "Você se reune com seus colegas no bar e vê que um está passando dos limites, assim como criticando várias pessoas. A pessoa aparenta confortável apenas para compartilhar essas coisas com você e os demais",
+      "opcao1": "Escutar os 'desabafos' desta pessoa a fim de confortá-la",
+      "opcao1softs" : [ "Gestão de pessoas" ],
+      "opcao2": "Retirar esta pessoa imediatamente do lugar para que ela não se comprometa",
+      "opcao2softs" : ["Tomada de decisão"],
+      "opcao3": "Ficar calade para não se comprometer, acreditando que aquilo não levaria a nada",
+      "opcao3softs" : [],
+      "opcao4": "Sugerir uma solução para que não se arrependa desta conversa e ao mesmo tempo provoque mudanças na empresa",
+      "opcao4softs" : ["Criatividade"]
+    }
+
+    {
+      "id": 3,
+      "local": "refeitório",
+      "Pergunta": "O limite de capacidade do refeitório é de 4 pessoas por vez em função do isolamento. Você vê mais e mais pessoas chegando sem preocupar",
+      "opcao1": "Levantar sobre como deve-se respeitar as regras da empresa, que são feitas pensando na segurança de todos",
+      "opcao1softs" : [ "Inteligência emocional" ],
+      "opcao2": "Chamar o setor responsável para tomar uma atitude e cause mais impacto",
+      "opcao2softs" : ["Pensamento crítico", "Orientação para servir"],
+      "opcao3": "Chamar algumas pessoas para irem almoçar com você em outro lugar",
+      "opcao3softs" : ["Resolução de problemas"],
+      "opcao4": "Fazer um quadro de horários para todos colocarem sua preferência e evitar aglomerações futuras",
+      "opcao4softs" : ["Criatividade"]
+    }
+
+    {
+      "id": 4,
+      "local": "chat",
+      "Pergunta": "Em sua ligação, o cliente pede uma postura da empresa quanto a melhorias na qualidade do produto",
+      "opcao1": "",
+      "opcao1softs" : [ "" ],
+      "opcao2": "",
+      "opcao2softs" : [""],
+      "opcao3": "Encaminhar pro setor responsável e acompanhar o processo para aprendizado",
+      "opcao3softs" : ["Flexibilidade cognitiva"],
+      "opcao4": "",
+      "opcao4softs" : [""]
+    }
+
+             ]
+
+
+
+
+}

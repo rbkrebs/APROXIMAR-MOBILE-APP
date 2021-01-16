@@ -17,6 +17,7 @@ public class CandidateConverter implements CandidateMapper{
         candidate.setEmail(candidateDTO.getEmail());
         candidate.setNome(candidateDTO.getNome());
         candidate.setSenha(candidateDTO.getSenha());
+        candidate.setPontuacao(candidateDTO.getPontuacao());
 
         return candidate;
 
@@ -31,6 +32,7 @@ public class CandidateConverter implements CandidateMapper{
         candidateDTO.setEmail(candidate.getEmail());
         candidateDTO.setNome(candidate.getNome());
         candidateDTO.setSenha(candidate.getSenha());
+        candidateDTO.setPontuacao(candidate.getPontuacao());
 
         return candidateDTO;
 

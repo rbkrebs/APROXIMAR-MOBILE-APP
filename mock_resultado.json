@@ -1,0 +1,23 @@
+{
+	"mensagem":"Parabéns, você teve um excelente resultado",
+	"pontuacao":
+		[
+			{
+				"id_kill":1,
+				"id_skill":"skill_1",
+				"pontuacao":"+3.250 pontos"
+			},
+
+			{
+				"id_kill":2,
+				"id_skill":"skill_2",
+				"pontuacao":"+1.250 pontos"
+			},
+			{
+				"id_kill":3,
+				"id_skill":"skill_3",
+				"pontuacao":"+4.250 pontos"
+			}
+
+		]
+}

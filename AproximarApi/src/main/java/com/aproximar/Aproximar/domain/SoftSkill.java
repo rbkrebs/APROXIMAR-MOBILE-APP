@@ -18,4 +18,6 @@ public class SoftSkill extends AbstractEntity<Long> {
     @Size(min = 3)
     private String nome;
 
+
+
 }

@@ -35,6 +35,8 @@ public class CandidateDTO {
     @NotBlank(message = "O campo Sobre é obrigatório")
     private String sobre;
 
+    private String pontuacao;
+
 
 
 }

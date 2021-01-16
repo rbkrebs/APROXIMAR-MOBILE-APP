@@ -20,8 +20,13 @@ public class Candidate extends Entidade {
     @Size(min = 3)
     private String sobre;
 
+    private String pontuacao;
+
     @OneToMany
     private Set<SoftSkill> softSkills;
+
+    @OneToMany
+    private Set<Match> matches;
 
 
 
